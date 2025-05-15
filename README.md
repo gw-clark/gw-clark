@@ -1,4 +1,8 @@
 ## Hi there 👋
+- My name is Gavin
+- I'm currently learning GitHub
+- I want to learn more about Python and other coding languages
+- U of A Electrical Engineering
 
 <!--
 **gw-clark/gw-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
